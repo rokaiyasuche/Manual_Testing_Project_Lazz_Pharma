@@ -104,5 +104,6 @@ This manual testing project for LazzPharma successfully validated the platformâ€
 
 ## Test Report Summary
 <img width="632" alt="Capture" src="https://github.com/user-attachments/assets/22cb03e0-cbc9-48bc-986c-5cbeeeac52a6" />
-![image](https://github.com/user-attachments/assets/3d1acc85-2a6f-4c38-999f-7469eb411949)
+![Picture1 png1](https://github.com/user-attachments/assets/4b9f9c91-b090-48df-903a-aa14ad103416)
+
 
